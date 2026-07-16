@@ -1,2 +1,3 @@
 # AI-Cheating-detection-
-My project is about finding the fraud moments or cheating while in a remote interviews.
+This project detects suspicious activities during remote interviews using real-time object detection.
+It identifies unauthorized objects like mobile phones, books, or multiple persons using YOLOv8 and OpenCV.
